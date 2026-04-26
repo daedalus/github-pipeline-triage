@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "github-pipeline-triage": {
+      "command": "github-pipeline-triage",
+      "args": ["mcp"]
+    }
+  }
+}

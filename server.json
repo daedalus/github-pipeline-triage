@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.dclavijo/github-pipeline-triage",
+  "description": "Automated GitHub issue and PR triage system with heuristic classification, noise detection, and PR suspicion analysis",
+  "repository": {
+    "url": "https://github.com/dclavijo/github-pipeline-triage",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "github-pipeline-triage",
+      "version": "0.1.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
